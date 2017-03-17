@@ -44,7 +44,7 @@ The Delegate has 3 required functions. First add the `CityPickerViewControllerDe
 ##### CityPickerDidSelectRow:
 
 ```
-func CityPickerDidSelectRow(nation: String, city: String) {
+ func CityPickerDidSelectRow(_ nation: String, city: String) {
         print("\(nation), \(city)")
     }
 ```
@@ -52,7 +52,7 @@ func CityPickerDidSelectRow(nation: String, city: String) {
 ##### CityPickerDidPressedCancelButton:
 
 ```
-func CityPickerDidPressedCancelButton() {
+ func CityPickerDidPressedCancelButton() {
         print("canceled")
     }
 ```
@@ -60,8 +60,8 @@ func CityPickerDidPressedCancelButton() {
 ##### CityPickerDidPressedSelectButton
 
 ```
-func CityPickerDidPressedSelectButton(CityPicker: CityPickerViewController, nation: String, city: String) {
-        cityLabel.text = "\(city), \(nation)"
+func CityPickerDidPressedSelectButton(_ CityPicker: CityPickerViewController, nation: String, city: String) {
+        print("\(nation), \(city)")
     }
 ```
 

@@ -33,7 +33,7 @@ class ViewController: UIViewController, CityPickerViewControllerDelegate {
         print("canceled")
     }
     func CityPickerDidPressedSelectButton(_ CityPicker: CityPickerViewController, nation: String, city: String) {
-        //cityLabel.text = "\(city), \(nation)"
+        print("\(nation), \(city)")
     }
 
 }
