@@ -8,7 +8,7 @@
 Swift 3.0.2
 iOS 8.0 +
 ```
-![](https://github.com/ozgurshn/CityPicker-Example/tree/master/CityPicker-Example/citypickerGif.gif)
+![](https://github.com/ozgurshn/CityPicker-Example/blob/master/citypickerGif.gif)
 
 
 ### Manually
@@ -20,7 +20,7 @@ iOS 8.0 +
 # Usage
 
 #### Copy these 3 files into the CityPicker Pods Bundle Resources.
-![](https://github.com/ozgurshn/CityPicker-Example/tree/master/CityPicker-Example/files.png)
+![](https://github.com/ozgurshn/CityPicker-Example/blob/master/files.png)
 
 
 
