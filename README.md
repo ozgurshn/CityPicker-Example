@@ -19,7 +19,7 @@ iOS 8.0 +
 
 # Usage
 
-#### Copy these 3 files into the CityPicker Pods Bundle Resources.
+#### Copy these 3 files into your project.
 ![](https://github.com/ozgurshn/CityPicker-Example/blob/master/files.png)
 
 
