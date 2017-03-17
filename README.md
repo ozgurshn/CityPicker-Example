@@ -23,6 +23,7 @@ iOS 8.0 +
 ![](https://github.com/ozgurshn/CityPicker-Example/blob/master/files.png)
 
 
+Your ViewController should be subclass of CityPickerViewControllerDelegate
 
 **CityPicker** is designed to be extremely easy to use. First create an instance of class `CityPickerViewController`, and then call it whenever you need it.
 
